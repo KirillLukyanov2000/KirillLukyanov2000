@@ -16,7 +16,7 @@
   - DBs (MySQL, PostgreSQL, Redis, Cassandra, MongoDB, H2, Liquibase) 
   - Specific Languages (Json, XML, HTML, CSS, Bootstrap, JavaScript, JSP, JSTL, Yaml, Groovy, Kotlin)
   - Template engines (Thymeleaf, FreeMarker)
-  - Testing (Junit, Mockito)
+  - Testing (Junit, Mockito) + Swagger
   - Logging (Log4j, Slf4j, JBoss)
   - Message brokers (Apache Kafka and ZooKeeper, RabbitMQ)
   - Various (Git, Docker, Kubernetes, Minio, Prometheus, Grafana)
