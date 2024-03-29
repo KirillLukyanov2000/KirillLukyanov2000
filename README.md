@@ -8,18 +8,19 @@
 - 😄 Fun fact: Created my first website in 2000 and it still works
 #
 ### ⚡ Technology stack:
-  - Java Programming (Core, Java EE, OOP, Collections, Multithreading, Concurrency API, Lambdas, Streams, IO, NIO, RegEx, Date Time API, Exceptions, Threads, Serialization, Reflection API, Lombok, Apache Commons, Design patterns, etc.)
-  - Spring (Core, Boot, MVC, AOP, Data, WebFlux, Test, Security, Actuator, Validation)
+  - Java Programming (Core, Java EE, OOP, Collections, Multithreading, Concurrency API, Lambdas, Streams, IO, NIO, RegEx, Date Time API, Exceptions, Threads, Serialization, Reflection API, Lombok, Apache Commons, Design patterns (GoF), SOLID, etc.)
+  - Spring (Core, Boot, MVC, AOP, Data JPA, WebFlux, Test, Security (OAuth2, JWT), Actuator / Monitoring, Validation)
   - Build Tools (Maven, Gradle)
   - SQL, HQL, JDBC, R2DBC, Hibernate, JPA, Hikari CP
-  - Web: Tomcat, Servlets, HTTP
+  - Web: Tomcat, Servlets, HTTP + REST API, Microservices
   - DBs (MySQL, PostgreSQL, Redis, Cassandra, MongoDB, H2, Liquibase) 
   - Specific Languages (Json, XML, HTML, CSS, Bootstrap, JavaScript, JSP, JSTL, Yaml, Groovy, Kotlin)
   - Template engines (Thymeleaf, FreeMarker)
   - Testing (Junit, Mockito) + Swagger
   - Logging (Log4j, Slf4j, JBoss)
   - Message brokers (Apache Kafka and ZooKeeper, RabbitMQ)
-  - Various (Git, Docker, Kubernetes, Minio, Prometheus, Grafana)
+  - VCS: Git + GitHub, GitLab
+  - Various (Docker, Kubernetes, Minio, Prometheus, Grafana)
   - Dev (Jira Atlassian, Scrum, CI CD, Jenkins)
 
 # 
